@@ -14,7 +14,7 @@
   <i>"I turn complex problems into elegant solutions using code."</i>
 </p>
 
-- 🎓 Learning **Java, Spring Boot, Hibernate, SQL, React**  
+- 🎓 Learning **Java,Adv Java, SQL, React**  
 - 🌱 Exploring **Full Stack Development & Scalable Web Apps**  
 - 👯 Open to collaborating on **Java projects and open-source contributions**  
 - ⚡ Fun fact: I love solving coding challenges & experimenting with new tech  
